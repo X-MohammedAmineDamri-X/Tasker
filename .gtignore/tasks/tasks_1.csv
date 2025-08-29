@@ -1,0 +1,9 @@
+ID,Task,Status,Date
+ΣModules-task-0001,Revue generale sur tous les cas de tests crées pendant la période de la recette continue,Done,2025-08-29
+ΣJira-task-0002,"Tout est bien testé , bien livré avec le changement de statut des Jiras de ""preparation "" vers ""Fini"" après la confirmation de la TA",Done,2025-08-29
+PC-task-0003,"completer le setup de la machine , installation des logiciels nécessaire , importe des données et des mots de passe sauvegarder sur le cloud",Done,2025-08-29
+PC-task-0004,Résolution du probleme de la carte réseau + vérification du bon setup du vpn ivanti secure,Done,2025-08-29
+CET-SD-task-0005,Compréhension des motifs et leurs parametrages,Done,2025-08-29
+CET-SD-task-0006,Exécution de quelques cas de tests avec la recherche sur le module en parallele,Done,2025-08-29
+CET-SD-task-0007,Connaissance des differents écrans du module,Done,2025-08-29
+CET-SD-task-0008,"Bonne compréhension du module CET et sa relation avec le Module SD , ainsi que le parametrage coté serveur",Done,2025-08-29
